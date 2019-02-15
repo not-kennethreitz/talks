@@ -1,4 +1,4 @@
-# Conerence Talks by Kenneth Reitz
+# Conference Talks by Kenneth Reitz
 
 This repo contains a the presentatiosn from [all of my conference talks](https://www.kennethreitz.org/talks) (and the fonts required) since 2011, when I got started. 
 
