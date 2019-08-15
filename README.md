@@ -6,6 +6,14 @@ All are available in their respective presentation formats, as well as PDF. Incl
 
 All slides are Licensed Apache 2.0. Fonts distribute are not re-licensed, but are providing for simplicity.
 
-# TODO
+# Recordings of talks
 
-- Add links (in `README.md`) of recordings of talks.
+- [Python 2.7 & Python 3: A Sacred Love Story](https://www.youtube.com/watch?time_continue=383&v=skYBOXE02OQ)
+- [API Driven Development](https://www.youtube.com/watch?v=JQBnopNPQEc)
+- [Documentation at Scale](https://www.youtube.com/watch?v=zhZOGST52ds)
+- [Documentation is King](https://www.youtube.com/watch?v=QZ5ehRynekQ)
+- [Flasky Goodness](https://www.youtube.com/watch?v=mfPViuYC4LE)
+- [Growing Open Source Seeds](https://www.youtube.com/watch?v=UwuMclgqtAQ)
+- [Pipenv: The Future of Python Dependency Management](https://www.youtube.com/watch?v=GBQAKldqgZs)
+- [Python for Humans](https://www.youtube.com/watch?v=uqIx4VRIuwM)
+- [Python for Humans - Remix](https://www.youtube.com/watch?v=ri_gJ-Q9GlM)
